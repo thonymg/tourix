@@ -1,0 +1,73 @@
+<button type="button" class="ant-btn ant-btn-primary"><span>Primary Button</span></button>
+<section class="code-box-demo">
+  <div class="ant-divider ant-divider-horizontal ant-divider-with-text ant-divider-with-text-left" role="separator">
+    <span class="ant-divider-inner-text">Horizontal</span></div>
+  <div class="ant-row" style="margin-left: -8px; margin-right: -8px;">
+    <div class="ant-col ant-col-6 gutter-row" style="padding-left: 8px; padding-right: 8px;">
+      <div style="background: rgb(0, 146, 255); padding: 8px 0px;">col-6</div>
+    </div>
+    <div class="ant-col ant-col-6 gutter-row" style="padding-left: 8px; padding-right: 8px;">
+      <div style="background: rgb(0, 146, 255); padding: 8px 0px;">col-6</div>
+    </div>
+    <div class="ant-col ant-col-6 gutter-row" style="padding-left: 8px; padding-right: 8px;">
+      <div style="background: rgb(0, 146, 255); padding: 8px 0px;">col-6</div>
+    </div>
+    <div class="ant-col ant-col-6 gutter-row" style="padding-left: 8px; padding-right: 8px;">
+      <div style="background: rgb(0, 146, 255); padding: 8px 0px;">col-6</div>
+    </div>
+  </div>
+  <div class="ant-divider ant-divider-horizontal ant-divider-with-text ant-divider-with-text-left" role="separator">
+    <span class="ant-divider-inner-text">Responsive</span></div>
+  <div class="ant-row" style="margin-left: -16px; margin-right: -16px;">
+    <div class="ant-col ant-col-6 gutter-row" style="padding-left: 16px; padding-right: 16px;">
+      <div style="background: rgb(0, 146, 255); padding: 8px 0px;">col-6</div>
+    </div>
+    <div class="ant-col ant-col-6 gutter-row" style="padding-left: 16px; padding-right: 16px;">
+      <div style="background: rgb(0, 146, 255); padding: 8px 0px;">col-6</div>
+    </div>
+    <div class="ant-col ant-col-6 gutter-row" style="padding-left: 16px; padding-right: 16px;">
+      <div style="background: rgb(0, 146, 255); padding: 8px 0px;">col-6</div>
+    </div>
+    <div class="ant-col ant-col-6 gutter-row" style="padding-left: 16px; padding-right: 16px;">
+      <div style="background: rgb(0, 146, 255); padding: 8px 0px;">col-6</div>
+    </div>
+  </div>
+  <div class="ant-divider ant-divider-horizontal ant-divider-with-text ant-divider-with-text-left" role="separator">
+    <span class="ant-divider-inner-text">Vertical</span></div>
+  <div class="ant-row" style="margin: -12px -8px 12px;">
+    <div class="ant-col ant-col-6 gutter-row" style="padding: 12px 8px;">
+      <div style="background: rgb(0, 146, 255); padding: 8px 0px;">col-6</div>
+    </div>
+    <div class="ant-col ant-col-6 gutter-row" style="padding: 12px 8px;">
+      <div style="background: rgb(0, 146, 255); padding: 8px 0px;">col-6</div>
+    </div>
+    <div class="ant-col ant-col-6 gutter-row" style="padding: 12px 8px;">
+      <div style="background: rgb(0, 146, 255); padding: 8px 0px;">col-6</div>
+    </div>
+    <div class="ant-col ant-col-6 gutter-row" style="padding: 12px 8px;">
+      <div style="background: rgb(0, 146, 255); padding: 8px 0px;">col-6</div>
+    </div>
+    <div class="ant-col ant-col-6 gutter-row" style="padding: 12px 8px;">
+      <div style="background: rgb(0, 146, 255); padding: 8px 0px;">col-6</div>
+    </div>
+    <div class="ant-col ant-col-6 gutter-row" style="padding: 12px 8px;">
+      <div style="background: rgb(0, 146, 255); padding: 8px 0px;">col-6</div>
+    </div>
+    <div class="ant-col ant-col-6 gutter-row" style="padding: 12px 8px;">
+      <div style="background: rgb(0, 146, 255); padding: 8px 0px;">col-6</div>
+    </div>
+    <div class="ant-col ant-col-6 gutter-row" style="padding: 12px 8px;">
+      <div style="background: rgb(0, 146, 255); padding: 8px 0px;">col-6</div>
+    </div>
+  </div>
+  <style>
+    .gutter-box {
+      padding: 8px 0;
+      background: #00a0e9;
+    }
+
+    [data-theme="dark"] .gutter-box {
+      background: #028ac8;
+    }
+  </style>
+</section>
