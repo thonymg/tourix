@@ -7,7 +7,7 @@ defmodule TourixWeb.Endpoint do
   @session_options [
     store: :cookie,
     key: "_tourix_key",
-    signing_salt: "cB+1zU/I"
+    signing_salt: "uGoedKCU"
   ]
 
   socket "/socket", TourixWeb.UserSocket,
@@ -23,7 +23,7 @@ defmodule TourixWeb.Endpoint do
   plug Plug.Static,
     at: "/",
     from: :tourix,
-    gzip: true,
+    gzip: false,
     only: ~w(css fonts images js favicon.ico robots.txt)
 
   # Code reloading can be explicitly enabled under the

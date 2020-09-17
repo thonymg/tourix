@@ -13,10 +13,10 @@ config :tourix,
 # Configures the endpoint
 config :tourix, TourixWeb.Endpoint,
   url: [host: "localhost"],
-  secret_key_base: "tSumnNyUReMqmYbnmp3skm9zo+MsOH61C0szsHoRk+FY2U+gmsUOzTEewtxaWm4e",
+  secret_key_base: "UkSeez5XjAyKleiWCoiDrt7B+nLDTNT+Ij1IiJLwO6gd6T/KOcJVHc5ZPYnWoE4/",
   render_errors: [view: TourixWeb.ErrorView, accepts: ~w(html json), layout: false],
   pubsub_server: Tourix.PubSub,
-  live_view: [signing_salt: "OKeWyAoG"]
+  live_view: [signing_salt: "Gjw/LDid"]
 
 # Configures Elixir's Logger
 config :logger, :console,
